@@ -12,7 +12,7 @@ Thank you for your interest in contributing! Here's how you can help.
 
 ## Reporting Issues
 
-- Use the [GitHub Issues](https://github.com/KushalPitaliya/ATmega32-Ultrasonic-Distance-Meter/issues) tab
+- Use the [GitHub Issues](https://github.com/k-pitaliya/ATmega32-Ultrasonic-Distance-Meter/issues) tab
 - Describe the problem clearly with steps to reproduce
 - Include relevant logs or screenshots if applicable
 
